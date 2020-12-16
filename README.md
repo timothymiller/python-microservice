@@ -4,8 +4,9 @@
 
 ## 🏃 Runtime
 
-- Docker
+- Alpine Linux
 - Python3
+- Docker
 - Intel + AMD (64 bit)
 
 ## 🔋 Bash Scripts (Docker + Docker Hub)
