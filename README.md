@@ -7,7 +7,7 @@
 - Alpine Linux
 - Python3
 - Docker
-- Intel + AMD (64 bit)
+- Multi-Architecture (arm64, amd64, & more)
 
 ## 🔋 Bash Scripts (Docker + Docker Hub)
 
